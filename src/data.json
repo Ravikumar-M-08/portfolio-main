@@ -1,0 +1,34 @@
+{
+    "projects":[
+        {
+            "project_id":1,
+            "project":"Front End",
+            "project_title":"Find Now",
+            "project_description":"The Job Portal website is a dynamic and user-friendly career platform designed to connect job seekers with employers. This platform facilitates the job search and application process while offering recruitment solutions. It is optimized for both job applicants and employers, making the experience seamless and efficient. ",
+            "project_tool":"HTML, CSS, Bootstrap, JavaScript, JSON",
+            "project_img":"findnow.png",
+            "project_code":"https://github.com/Ravikumar-M-08",
+            "project_output":"https://ravikumar-m-08.github.io/find_now/"
+        },
+        {
+            "project_id":2,
+            "project":"Front End",
+            "project_title":"Personal Portfolio",
+            "project_description":"I built this personal portfolio to showcase my development skills, highlight my experience, and provide an interactive platform for potential clients or employers to explore my work. This project is a reflection of my ability to design, develop, and deploy a responsive and dynamic web application using modern web technologies.",
+            "project_tool":"HTML, CSS, Bootstrap, JSON, React JS",
+            "project_img":"portfolio.png",
+            "project_code":"https://github.com/Ravikumar-M-08",
+            "project_output":"https://ravikumar-profile.netlify.app"
+        },
+        {
+            "project_id":3,
+            "project":"Full Stack",
+            "project_title":"Men’s Salon",
+            "project_description":" Developed a dynamic, user-friendly website for a men’s grooming salon, allowing customers to easily browse services and book appointments online. Integrated a custom appointment scheduling system that interacts with a MySQL database to manage available times and appointments in real-time.",
+            "project_tool":" HTML, CSS, JavaScript, JSON, JSP, MySQL. ",
+            "project_img":"",
+            "project_code":"https://github.com/Ravikumar-M-08",
+            "project_output":"https://ravikumar-m-08.github.io/HAIRCUT/index.html"
+        }
+    ]
+}
