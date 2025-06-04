@@ -26,7 +26,7 @@
             "project_title":"Men’s Salon",
             "project_description":" Developed a dynamic, user-friendly website for a men’s grooming salon, allowing customers to easily browse services and book appointments online. Integrated a custom appointment scheduling system that interacts with a MySQL database to manage available times and appointments in real-time.",
             "project_tool":" HTML, CSS, JavaScript, JSON, JSP, MySQL. ",
-            "project_img":"",
+            "project_img":"men's salon.jpeg",
             "project_code":"https://github.com/Ravikumar-M-08",
             "project_output":"https://ravikumar-m-08.github.io/HAIRCUT/index.html"
         }
