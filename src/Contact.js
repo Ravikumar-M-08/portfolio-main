@@ -34,7 +34,14 @@ function Contact() {
                                     <div className="col-lg-6 col-md-6 col-12 mb-4">
                                         <input type="email" name="" id="" className="inputname  p-1 w-100" placeholder="Email address" required />
                                     </div>
-
+                                </div>
+                                <div className="row  d-flex justify-content-between">
+                                    <div className="col-lg-6 col-md-6 col-12 mb-4">
+                                        <input type="text" name="" id="" className="inputname  p-1 w-100" placeholder="Name" required />
+                                    </div>
+                                    <div className="col-lg-6 col-md-6 col-12 mb-4">
+                                        <input type="email" name="" id="" className="inputname  p-1 w-100" placeholder="Email address" required />
+                                    </div>
                                 </div>
                                 <div className="row mb-4">
                                     <div>
