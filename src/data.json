@@ -29,6 +29,16 @@
             "project_img":"men's_salon.jpeg",
             "project_code":"https://github.com/Ravikumar-M-08",
             "project_output":"https://ravikumar-m-08.github.io/HAIRCUT/index.html"
+        },
+        {
+            "project_id":4,
+            "project":"Full Stack",
+            "project_title":"The Garden Path",
+            "project_description":" Developed and deployed a full-stack Online Nursery web application where users can purchase a variety of indoor and outdoor plants. The application includes  product listing, and cart functionality. Implemented dynamic frontend using React.js with responsive design through Bootstrap. Built secure and scalable REST APIs with Spring Boot for backend services. Managed and stored data using MySQL",
+            "project_tool":" HTML, CSS, Bootstrap,  JavaScript, React.js, Spring Boot, Mysql",
+            "project_img":"",
+            "project_code":"https://github.com/Ravikumar-M-08",
+            "project_output":"https://nurseryuser.netlify.app"
         }
     ]
 }
