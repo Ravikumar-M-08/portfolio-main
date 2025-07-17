@@ -16,8 +16,8 @@ function Skills() {
                 <div className="skill_container mt-4">
                     <div className="tools">
                         <div className="tool" style={{ "--i": 1 }}><img src="java.svg" alt=""/></div>
-                        <div className="tool" style={{ "--i": 2 }}><img src="python.svg" alt="" /></div>
-                        <div className="tool" style={{ "--i": 3 }}><img src="mysql.svg" alt="" /></div>
+                        {/* <div className="tool" style={{ "--i": 2 }}><img src="python.svg" alt="" /></div> */}
+                        <div className="tool" style={{ "--i": 2 }}><img src="mysql.svg" alt="" /></div>
                         <p className="name">Programming Languages</p>
                     </div>
                     <div className="tools">
